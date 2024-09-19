@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I am passionate about **Data Science** and **Machi
 
 ## 📫 How to reach me
 
-- LinkedIn: Sri Hari Haran M (linkedin.com/in/srihariharanm/)
+- LinkedIn: linkedin.com/in/srihariharanm/
 - Email: stud.srihari13@gmail.com
 
 ## 🏆 GitHub Stats
