@@ -31,11 +31,6 @@ Welcome to my GitHub profile! I am passionate about **Data Science** and **Machi
 - LinkedIn: linkedin.com/in/srihariharanm/
 - Email: stud.srihari13@gmail.com
 
-## 🏆 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 💡 Fun Fact
 
 I love exploring new datasets and uncovering insights that can make an impact!
