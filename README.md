@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Srihari<br><br>I'm a software developer focused on backend engineering, scalable systems, and AI-driven applications.<br><br>I enjoy building systems that handle real-world problems — from distributed load balancing strategies to intelligent study assistants powered by LLMs.<br><br>
+## 👋 Hi, I'm Srihari<br><br>I'm a software developer focused on backend engineering, scalable systems, and AI-driven applications.<br><br>
 
 
 ## 🌐 Socials:
