@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Srihari<br><br>I'm a software developer focused on backend engineering, scalable systems, and AI-driven applications.<br><br>I enjoy building systems that handle real-world problems — from distributed load balancing strategies to intelligent study assistants powered by LLMs.<br><br>### 🚀 What I'm Working On<br>- Predictive load balancing strategies<br>- AI-powered study companion using RAG pipelines<br>- Full-stack platforms solving real-world coordination problems<br><br>### 💻 Tech Stack<br>Python • Java • C++  <br>Flask • React • REST APIs  <br>System Design • Distributed Systems • AI/LLMs<br><br>I’m particularly interested in building systems that combine **software engineering with intelligent automation**.
+## 👋 Hi, I'm Srihari<br><br>I'm a software developer focused on backend engineering, scalable systems, and AI-driven applications.<br><br>I enjoy building systems that handle real-world problems — from distributed load balancing strategies to intelligent study assistants powered by LLMs.<br><br>
 
 
 ## 🌐 Socials:
